@@ -1,5 +1,5 @@
-./db-init/
+/db-init/
 !./db-init/.gitignore
 
-./html
+/html/
 !./html/.gitignore
