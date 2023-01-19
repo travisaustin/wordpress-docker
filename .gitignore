@@ -1,5 +1,6 @@
 /db-init/
-!./db-init/.gitignore
+!./db-init/.gitkeep
 
 /html/
-!./html/.gitignore
+!./html/.gitkeep
+!./html/wp_content/.gitkgieep
